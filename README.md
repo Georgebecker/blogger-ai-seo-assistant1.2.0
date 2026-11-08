@@ -50,6 +50,11 @@ Iniciantes podem sugerir melhorias para o guia ou para o processo de instalaçã
 ## Licença e contato
 
 [MIT](LICENSE).
+
+**Apoie o autor:**
+- **PIX:** `a8b68e14-edfe-4450-88f2-c2af4aca2a6c`
+- **Buy Me a Coffee:** <https://buymeacoffee.com/georgehbecker>
+
 George Herman Becker — [LinkedIn](https://www.linkedin.com/in/georgehbecker/)
 
 ## Tags do GitHub
